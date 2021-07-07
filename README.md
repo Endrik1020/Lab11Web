@@ -38,3 +38,5 @@ manual.
 ![4](https://user-images.githubusercontent.com/81820421/122070758-6d1fad80-ce20-11eb-8093-3c1089c6a724.JPG)
 
 • Buka browser dengan alamat http://localhost/lab11_php_ci/ci4/public
+![Capture](https://user-images.githubusercontent.com/81820421/124782782-b326e780-df6e-11eb-97e9-6c308d0a415a.JPG)
+
